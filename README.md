@@ -21,6 +21,8 @@ It includes **data collection, preprocessing, visualization, and predictive mode
 | **visualize.pbix** | Power BI dashboard showing key business insights. |
 | **Screenshot.png / Visualization -BI.png** | Preview images of visualizations and dashboards. |
 | **test.csv** | Sample test dataset for ML model evaluation. |
+| **model.pkl** | Joblib File. |
+| **pipeline.pkl** | Pipeline File. |
 | **1_health_supplement.csv**, **2_health_supplement.csv**, **3_health_supplement.csv**, **4_health_supplement.csv**, **5_total_health_supplement.csv**, **final_health_supplement.csv** | CSV datasets used across stages of the project. |
 
 ---
