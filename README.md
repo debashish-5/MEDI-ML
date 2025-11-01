@@ -10,10 +10,10 @@ It includes **data collection, preprocessing, visualization, and predictive mode
 
 | File / Folder | Description |
 |----------------|-------------|
-| **1_protein.ipynb** | Data collection and preprocessing for protein supplement products. |
-| **2_medicine.ipynb** | Data analysis and cleaning of medicine-related product data. |
-| **3_skincare.ipynb** | Data exploration and visualization for skincare products. |
-| **4_bodylotion.ipynb** | Analysis of body lotion product dataset. |
+| **1_protein.ipynb** | Scraping 1.Data collection and preprocessing for protein supplement products. |
+| **2_medicine.ipynb** | Scraping 2. Data analysis and cleaning of medicine-related product data. |
+| **3_skincare.ipynb** | Scraping 3. Data exploration and visualization for skincare products. |
+| **4_bodylotion.ipynb** | Scraping 4. Analysis of body lotion product dataset. |
 | **5_Data Analysis.ipynb** | Combined analysis across all product datasets for comparative insights. |
 | **6_Visualization.ipynb** | Advanced visualizations and dashboards for better understanding of product trends. |
 | **7_ML.ipynb** / **FINAL_ML.ipynb** | Machine learning models for predicting product ratings, pricing, or demand. |
